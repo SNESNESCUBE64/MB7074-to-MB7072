@@ -1,7 +1,7 @@
 # MB7074 (10422) to MB7072 ECL RAM Adapter
 Quick PCB adapter to adapt the more readily available 10422 ECL RAM to the older (and harder to find) MB7072 ECL RAM.This adapter is currently untested, but will be tested in a Radar Scope arcade cabinet soon for functionality.
 
-## Chip differences
+## Chip Differences
 The main difference between these two chips is how the block select is done. On the MB7072, there are only two block select signals. On this chip, they basically tie two bit blocks together. So bits 0 and 1 are associated with block select 0, and bits 3 and 4 are associated with block select 1.  
 ![MB7072 main info](Images/MB7072.png)  
 
