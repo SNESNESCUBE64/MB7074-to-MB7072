@@ -10,9 +10,9 @@ With the MB7074, each bit has their own block select signal. So for this to work
 
 ## Images
 **Board Front**  
-![Render Front](Images/RenderFront.png)
+![Render Front](Images/RenderFront.png)  
 **Board Back**  
-![Render Back](Images/RenderBack.png)
+![Render Back](Images/RenderBack.png)  
 
 ## Sources
 All information that this adapter (as well as the images detailing how the chips work) is based off of is found at the following resource:  
